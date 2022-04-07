@@ -1,7 +1,7 @@
 ---
 title: "La cultura en el desarrollo de Software"
 date: 2022-02-21T18:16:21-06:00
-description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
+description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X. ¿Y de qué va? De aquellas cualidades que considero son indispensables en un buen programador'
 ---
 
 "Cultura en el desarrollo de software" ¿verdad que suena raro? Pues no tanto, al final de cuentas somos seres humanos y hay que tener ciertas normas, que no necesariamente se escriben en piedra pero respetamos de manera hasta inconsciente. Pero ¿qué caracteristicas debe cumplir el desarrollo de software?. Vamos a escribir un poco mi punto de vista:
