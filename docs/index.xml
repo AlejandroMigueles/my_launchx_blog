@@ -8,12 +8,14 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://alejandromigueles.github.io/my_launchx_blog_AlexMigueles/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mis expectativas</title>
+      <title>La cultura en el desarrollo de Software</title>
       <link>https://alejandromigueles.github.io/my_launchx_blog_AlexMigueles/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
       
       <guid>https://alejandromigueles.github.io/my_launchx_blog_AlexMigueles/posts/intro/</guid>
-      <description>Usa este post para anotar tus expectativas de la misión.</description>
+      <description>&amp;ldquo;Cultura en el desarrollo de software&amp;rdquo; ¿verdad que suena raro? Pues no tanto, al final de cuentas somos seres humanos y hay que tener ciertas normas, que no necesariamente se escriben en piedra pero respetamos de manera hasta inconsciente. Pero ¿qué caracteristicas debe cumplir el desarrollo de software?. Vamos a escribir un poco mi punto de vista:
+-Trabajo colaborativo
+Estamos acostumbrados a trabajar cooperativamente, todos nos dividimos parte del trabajo y al final lo juntamos, y claro, en el desarrollo de software esto es algo bastante común, tenemos equipos de trabajo, los de backend, frontend, etc etc, pero&amp;hellip; ¿Es del todo correcto solo juntar las cosas al final sin saber del trabajo de los otros equipos?</description>
     </item>
     
     <item>
